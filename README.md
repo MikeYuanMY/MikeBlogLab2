@@ -1,5 +1,5 @@
 # Linear Regression
-## Linear Relationship
+#### Understanding a Linear Relationship
 Imagine that you are buying some apples at a market. The apples cost $5.00 per lbs. You pick up 1.5 lbs and end up paying 7.5 dollar. The total cost of the apples depends on the quantity of the apples you pick. Let's assume you buy apple in different quantities ( 2, 3,...,10 lbs) at the same price point and record all the costs and quantities.  If you plot the cost and quantities of the apples as the figure below.
 
 ![dummy_data](imgs/simple_cost.png)
